@@ -10,6 +10,8 @@ namespace ReWal.Controllers
     {
         public ActionResult Index()
         {
+
+
             return View();
         }
 
