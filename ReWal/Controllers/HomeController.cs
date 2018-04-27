@@ -12,7 +12,7 @@ namespace ReWal.Controllers
         {
 
 
-            return View();
+            return  View();
         }
 
         public ActionResult About()
